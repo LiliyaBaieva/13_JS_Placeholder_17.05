@@ -56,6 +56,7 @@ function displayUsers(users){
 }
 
 function displayUserDetails(user){
+    userDetailsDiv.innerHTML ='';
     
     const nameHeading = document.createElement('h2');
     nameHeading.innerHTML = user.name;

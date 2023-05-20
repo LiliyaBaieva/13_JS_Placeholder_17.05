@@ -25,7 +25,7 @@ h1{
     margin-left: 80px;
 }
 
-#userDetails{
+.userDetailsInfo{
     background-color: #e7ebf0;
     width: 220px;
     height: 350px;
